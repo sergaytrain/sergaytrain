@@ -2,7 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=26A69A&center=true&vCenter=true&width=700&height=50&lines=%E2%9E%A4+freshfork%40work-pc%3A~%24+init+profile;%E2%9E%A4+loading+capabilities...;%E2%9E%A4+status%3A+full-stack+god+mode" alt="Terminal" />
 
-<img src="https://capsule-render.vercel.app/type=Waving&color=26A69A&height=60&section=header&animation=twinkling" width="100%" />
+<svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neon-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#26A69A" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="5" x2="100%" y2="5" stroke="url(#neon-line)" stroke-width="3" />
+</svg>
 
 <br/>
 
@@ -16,6 +25,17 @@
   
   <div align="right" style="color: #26A69A; font-family: monospace; font-size: 11px; font-weight: bold; margin-top: 10px;">SYSTEM STATUS: ACTIVE // LIVE FEED</div>
 </div>
+
+<br/>
+<br/>
+
+<a href="https://t.me/freshfork" target="_blank" style="text-decoration: none;">
+  <div style="background: linear-gradient(90deg, #1A237E 0%, #26A69A 50%, #00E676 100%); border-radius: 30px; padding: 2px; width: 450px; box-shadow: 0 0 20px rgba(38,166,154,0.4); transition: 0.3s;">
+    <div style="background: #050505; border-radius: 28px; padding: 12px; display: flex; justify-content: center; align-items: center;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=800&color=26A69A&center=true&vCenter=true&width=400&height=20&lines=VISIT+MY+PORTFOLIO+%E2%9E%A4;EXPLORE+MY+PROJECTS+%E2%9A%A1;ESTABLISH+CONNECTION+%F0%9F%90%BE;ACCESS+GRANTED+%E2%94%81" alt="Dynamic Button Text" />
+    </div>
+  </div>
+</a>
 
 <br/>
 <br/>
@@ -55,14 +75,6 @@
 </div>
 
 <br/>
-<br/>
-
-<div style="border-top: 1px solid rgba(255,255,255,0.07); width: 85%; padding-top: 20px;">
-  <a href="https://t.me/freshfork" target="_blank">
-    <img src="https://capsule-render.vercel.app/type=Rect&text=ESTABLISH%20ENCRYPTED%20CONNECTION%20//%20TELEGRAM&color=000000&stroke=26A69A&strokeWidth=2&fontSize=14&fontColor=26A69A&fontAlignY=50&height=50&width=450&animation=twinkling" />
-  </a>
-</div>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sergaytrain&color=26A69A&style=cyber&label=PROFILE+ACCESS+LOG" alt="Views Counter" />
