@@ -32,3 +32,10 @@
 [![Telegram](https://img.shields.io/badge/Связь%20со%20мной-0088cc?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=12)](https://t.me/freshfork)
 
 </div>
+
+
+---
+
+### 🌐 Мой личный сайт
+
+[![Website](https://img.shields.io/badge/Открыть%20Портфолио-2K-blue?style=for-the-badge&logo=googlechrome&logoColor=white&borderRadius=12)](https://твоя-ссылка.github.io)
