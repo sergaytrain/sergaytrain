@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=26A69A&center=true&vCenter=true&width=700&height=50&lines=%E2%9E%A4+freshfork%40work-pc%3A~%24+init+profile;%E2%9E%A4+loading+capabilities...;%E2%9E%A4+status%3A+full-stack+god+mode" alt="Terminal" />
 
+<img src="https://capsule-render.vercel.app/type=Waving&color=26A69A&height=60&section=header&animation=twinkling" width="100%" />
+
 <br/>
 
 <div style="background: linear-gradient(135deg, rgba(38,166,154,0.1) 0%, rgba(0,0,0,0.6) 100%); border: 1px solid rgba(38,166,154,0.3); border-radius: 16px; padding: 25px; width: 85%; backdrop-filter: blur(20px); box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);">
@@ -10,10 +12,9 @@
     [SYSTEM INFO] Crafting high-end web architectures, optimized backend proxies, and buttery-smooth desktop experiences.
   </p>
   
-  <div style="background: rgba(255,255,255,0.05); border-radius: 20px; width: 100%; height: 8px; overflow: hidden; margin: 15px 0 5px 0; border: 1px solid rgba(38,166,154,0.2);">
-    <div style="background: linear-gradient(90deg, #26A69A 0%, #00E676 100%); width: 87%; height: 100%; box-shadow: 0 0 10px #26A69A;"></div>
-  </div>
-  <div align="right" style="color: #26A69A; font-family: monospace; font-size: 11px; font-weight: bold;">SYSTEM LOAD: 87% // CREATIVE OVERDRIVE</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergaytrain&bg_color=00000000&color=26A69A&line=26A69A&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  
+  <div align="right" style="color: #26A69A; font-family: monospace; font-size: 11px; font-weight: bold; margin-top: 10px;">SYSTEM STATUS: ACTIVE // LIVE FEED</div>
 </div>
 
 <br/>
@@ -35,12 +36,12 @@
 <table width="90%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" style="padding: 10px;">
-      <div style="background: rgba(0,0,0,0.4); border: 1px solid rgba(38,166,154,0.15); border-radius: 14px; padding: 10px; box-shadow: inset 0 0 20px rgba(38,166,154,0.05);">
+      <div style="background: rgba(0,0,0,0.4); border: 1px solid rgba(38,166,154,0.15); border-radius: 14px; padding: 10px;">
         <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=darkhub&hide_border=true&title_color=26A69A&icon_color=26A69A&text_color=FFFFFF&bg_color=00000000" width="100%" />
       </div>
     </td>
     <td width="50%" align="center" style="padding: 10px;">
-      <div style="background: rgba(0,0,0,0.4); border: 1px solid rgba(38,166,154,0.15); border-radius: 14px; padding: 10px; box-shadow: inset 0 0 20px rgba(38,166,154,0.05);">
+      <div style="background: rgba(0,0,0,0.4); border: 1px solid rgba(38,166,154,0.15); border-radius: 14px; padding: 10px;">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=darkhub&hide_border=true&title_color=26A69A&icon_color=26A69A&text_color=FFFFFF&bg_color=00000000" width="100%" />
       </div>
     </td>
@@ -57,10 +58,8 @@
 <br/>
 
 <div style="border-top: 1px solid rgba(255,255,255,0.07); width: 85%; padding-top: 20px;">
-  <a href="https://t.me/freshfork" target="_blank" style="text-decoration: none;">
-    <div style="background: #000000; border: 1px solid #26A69A; color: #26A69A; font-family: 'Fira Code', monospace; font-size: 13px; font-weight: bold; letter-spacing: 3px; padding: 12px 35px; border-radius: 30px; display: inline-block; box-shadow: 0 0 15px rgba(38,166,154,0.2); transition: 0.3s;">
-      ESTABLISH ENCRYPTED CONNECTION // TELEGRAM
-    </div>
+  <a href="https://t.me/freshfork" target="_blank">
+    <img src="https://capsule-render.vercel.app/type=Rect&text=ESTABLISH%20ENCRYPTED%20CONNECTION%20//%20TELEGRAM&color=000000&stroke=26A69A&strokeWidth=2&fontSize=14&fontColor=26A69A&fontAlignY=50&height=50&width=450&animation=twinkling" />
   </a>
 </div>
 
