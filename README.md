@@ -31,4 +31,6 @@
 
 ### ⚡ Get In Touch
 
-[![Telegram](
+[![Telegram](https://img.shields.io/badge/Contact%20Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=12)](https://t.me/freshfork)
+
+</div>
