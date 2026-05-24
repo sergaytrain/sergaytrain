@@ -15,10 +15,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
