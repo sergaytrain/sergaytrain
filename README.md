@@ -1,35 +1,32 @@
 <div align="center">
 
-# 💻 freshfork@work-pc:~$ Разношу серверы
+# `freshfork@work-pc:~$ Разношу серверы`
 
-<!-- КНОПКА СВЯЗИ В TELEGRAM -->
-<a href="https://t.me" target="_blank">
-  <img src="https://shields.io" alt="Telegram" />
-</a>
+---
 
-<br/>
-<br/>
+### Стек технологий
 
-<!-- ИКОНКИ СТЕКА ТЕХНОЛОГИЙ -->
-<h3>🛠️ Мой стек технологий:</h3>
-<p align="center">
-  <img src="https://skillicons.dev" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,ts,html,css,php,nextjs,linux,git,vscode,nginx)](https://skillicons.dev)
 
-<br/>
+---
 
-<!-- БЛОК СТАТИСТИКИ И ДИАГРАММЫ ЯЗЫКОВ -->
-<h3>📊 Статистика активности:</h3>
+### Статистика профиля
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://vercel.app" alt="Статистика GitHub" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://vercel.app" alt="Используемые языки" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
+
+---
+
+### Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 
 </div>
