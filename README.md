@@ -32,6 +32,3 @@
 [![Telegram](https://img.shields.io/badge/Связь%20со%20мной-0088cc?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=12)](https://t.me/freshfork)
 
 </div>
-
-
-[![Посмотреть проект live](https://урл-картинки-твоего-сайта.png)](https://твой-сайт.github.io)
