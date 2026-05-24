@@ -6,37 +6,29 @@
 
 <br />
 
----
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Laptop.png" alt="Laptop" width="100" height="100" />
 
 ### 🛠️ Tech Stack & Ecosystem
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,ts,html,css,php,nextjs,linux,git,vscode,nginx&theme=dark)](https://skillicons.dev)
 
----
-
 ### 🏆 Achievements & Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sergaytrain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 ### 📊 Performance Metrics
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&v=10" alt="GitHub Stats" width="100%" />
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&hide_border=true&v=12" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&hide=hack&v=10" alt="Top Languages" width="100%" />
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&hide=hack&hide_border=true&v=12" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
----
-
 ### ⚡ Get In Touch
 
-[![Telegram](https://img.shields.io/badge/Contact%20Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=12)](https://t.me/freshfork)
-
-</div>
+[![Telegram](
