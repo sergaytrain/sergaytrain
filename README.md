@@ -15,17 +15,17 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru&v=3" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru&v=4" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru&v=3" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru&v=4" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Контакты
+### Contacts
 
 <a href="https://t.me/freshfork" target="_blank" style="text-decoration: none;">
   <div style="display: inline-flex; align-items: center; background: #0088cc; color: white; padding: 10px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; border-radius: 12px; gap: 8px; box-shadow: 0 4px 12px rgba(0,136,204,0.3);">
