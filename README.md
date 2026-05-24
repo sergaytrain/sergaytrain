@@ -30,8 +30,24 @@
 <br/>
 
 <a href="https://t.me/freshfork" target="_blank" style="text-decoration: none;">
-  <div style="box-shadow: 0 0 25px rgba(38,166,154,0.5); border-radius: 30px; display: inline-block; overflow: hidden;">
-    <img src="https://capsule-render.vercel.app/type=Rect&text=VISIT%20MY%20PORTFOLIO%20%E2%9E%94&color=linear-gradient(90deg,#1A237E,#26A69A,#00E676,#1A237E)&fontSize=16&fontColor=ffffff&fontAlignY=50&height=55&width=450&animation=twinkling" alt="Glow Button" />
+  <div style="box-shadow: 0 0 25px rgba(38,166,154,0.4); border-radius: 30px; display: inline-block;">
+    <svg width="450" height="55" viewBox="0 0 450 55" xmlns="http://www.w3.org/2000/svg" style="border-radius: 30px;">
+      <defs>
+        <linearGradient id="moving-glow" x1="0%" y1="0%" x2="200%" y2="0%">
+          <stop offset="0%" stop-color="#1A237E" />
+          <stop offset="25%" stop-color="#26A69A" />
+          <stop offset="50%" stop-color="#00E676" />
+          <stop offset="75%" stop-color="#26A69A" />
+          <stop offset="100%" stop-color="#1A237E" />
+          <animate attributeName="x1" from="0%" to="-100%" dur="4s" repeatCount="indefinite" />
+          <animate attributeName="x2" from="200%" to="100%" dur="4s" repeatCount="indefinite" />
+        </linearGradient>
+      </defs>
+      <rect width="450" height="55" fill="url(#moving-glow)" />
+      <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="15" font-weight="700" letter-spacing="2">
+        VISIT MY PORTFOLIO ➔
+      </text>
+    </svg>
   </div>
 </a>
 
