@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @sergaytrain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: html, css, js.
+<div align="center">
 
-<!---
-sergaytrain/sergaytrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 freshfork@work-pc:~$ Разношу серверы
+
+<!-- КНОПКА СВЯЗИ В TELEGRAM -->
+<a href="https://t.me/freshfork" target="_blank">
+  <img src="https://shields.io" alt="Telegram" />
+</a>
+
+<br/>
+<br/>
+
+<!-- ИКОНКИ СТЕКА ТЕХНОЛОГИЙ -->
+<h3>🛠️ Мой стек технологий:</h3>
+<p align="center">
+  <img src="https://skillicons.dev" />
+</p>
+
+<br/>
+
+<!-- БЛОК СТАТИСТИКИ И ДИАГРАММЫ ЯЗЫКОВ -->
+<h3>📊 Статистика активности:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://vercel.app" alt="Статистика GitHub" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://vercel.app" alt="Используемые языки" />
+    </td>
+  </tr>
+</table>
+
+</div>
