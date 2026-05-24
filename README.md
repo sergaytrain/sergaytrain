@@ -34,8 +34,4 @@
 </div>
 
 
----
-
-### 🌐 Мой личный сайт
-
-[![Website](https://img.shields.io/badge/Открыть%20Портфолио-2K-blue?style=for-the-badge&logo=googlechrome&logoColor=white&borderRadius=12)](https://твоя-ссылка.github.io)
+[![Посмотреть проект live](https://урл-картинки-твоего-сайта.png)](https://твой-сайт.github.io)
