@@ -2,30 +2,32 @@
 
 # `freshfork@work-pc:~$ Разношу серверы`
 
----
-
-### Стек технологий
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,ts,html,css,php,nextjs,linux,git,vscode,nginx)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Laptop.png" alt="Laptop" width="120" height="120" />
 
 ---
 
-### Статистика профиля
+### 💻 Мой стек технологий
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,ts,html,css,php,nextjs,linux,git,vscode,nginx&theme=dark)](https://skillicons.dev)
+
+---
+
+### 📊 Статистика профиля
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru&v=6" alt="GitHub Stats" width="100%" />
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sergaytrain&show_icons=true&theme=tokyonight&locale=ru&v=7" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru&v=6" alt="Top Languages" width="100%" />
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergaytrain&layout=compact&theme=tokyonight&locale=ru&v=7" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Контакты
+### 📞 Контакты
 
 [![Telegram](https://img.shields.io/badge/Связь%20со%20мной-0088cc?style=for-the-badge&logo=telegram&logoColor=white&borderRadius=12)](https://t.me/freshfork)
 
