@@ -30,13 +30,12 @@
 <br/>
 
 <a href="https://t.me/freshfork" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(90deg, #1A237E 0%, #26A69A 50%, #00E676 100%); border-radius: 30px; padding: 2px; width: 450px; box-shadow: 0 0 20px rgba(38,166,154,0.4); transition: 0.3s;">
-    <div style="background: #050505; border-radius: 28px; padding: 12px; display: flex; justify-content: center; align-items: center;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=800&color=26A69A&center=true&vCenter=true&width=400&height=20&lines=VISIT+MY+PORTFOLIO+%E2%9E%A4;EXPLORE+MY+PROJECTS+%E2%9A%A1;ESTABLISH+CONNECTION+%F0%9F%90%BE;ACCESS+GRANTED+%E2%94%81" alt="Dynamic Button Text" />
-    </div>
+  <div style="box-shadow: 0 0 25px rgba(38,166,154,0.5); border-radius: 30px; display: inline-block; overflow: hidden;">
+    <img src="https://capsule-render.vercel.app/type=Rect&text=VISIT%20MY%20PORTFOLIO%20%E2%9E%94&color=linear-gradient(90deg,#1A237E,#26A69A,#00E676,#1A237E)&fontSize=16&fontColor=ffffff&fontAlignY=50&height=55&width=450&animation=twinkling" alt="Glow Button" />
   </div>
 </a>
 
+<br/>
 <br/>
 <br/>
 
