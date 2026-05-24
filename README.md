@@ -6,8 +6,6 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Laptop.png" alt="Laptop" width="100" height="100" />
-
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
