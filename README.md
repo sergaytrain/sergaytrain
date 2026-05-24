@@ -3,7 +3,7 @@
 # 💻 freshfork@work-pc:~$ Разношу серверы
 
 <!-- КНОПКА СВЯЗИ В TELEGRAM -->
-<a href="https://t.me/freshfork" target="_blank">
+<a href="https://t.me" target="_blank">
   <img src="https://shields.io" alt="Telegram" />
 </a>
 
